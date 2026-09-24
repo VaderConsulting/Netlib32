@@ -27,7 +27,7 @@ Open `netdecs.bas` in Visual Basic 6 as a module, or add the `.bas` files to a V
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Netlib32`.
+Working copy from my Historical Dev folder `VB/Old/Netlib32`.
 
 ## License
 
